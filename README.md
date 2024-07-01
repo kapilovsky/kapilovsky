@@ -1,4 +1,4 @@
-![namaste](gitBanner.png)
+<img src="gitBanner.png" alt="namaste" style="border-radius: 16px;">
 
 <h4 align="left">When I am not glued to the screen you will probably find me on the football pitch or on the dance floor.</h4>
 
