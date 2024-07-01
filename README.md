@@ -1,6 +1,6 @@
 ![namaste](gitBanner.png)
 
-<h4 align="center">When I am not glued to the screen you will probably find me on the football pitch or on the dance floor.</h4>
+<h4 align="left">When I am not glued to the screen you will probably find me on the football pitch or on the dance floor.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k4p1l&label=Profile%20views&color=0e75b6&style=flat" alt="k4p1l" /> </p>
 
