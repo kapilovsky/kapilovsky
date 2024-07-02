@@ -17,7 +17,7 @@
 </pre>
 </h4>
 
-<img src="taj.png" alt="taj" align="right" width="300">
+<img src="taj.png" alt="taj" align="right" width="300"> <br>
 
 * 🌱 I’m currently learning **Full stack development and Machine Learning**
 * 🛕 Based out of **United Sectors of Chandigarh**
