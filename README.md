@@ -53,8 +53,11 @@
 <br>
 
 
-[![IITM MAD 1 Project Demonstration](https://ytcards.demolab.com/?id=ROC1Bg4fBQc&title=IITM+MAD+1+Project+Demonstration+|+Influencer+Engagement+and+Sponsorship+Coordination+Platform&lang=en&timestamp=1719340200&background_color=%230f0f0f&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=450&border_radius=10&duration=775 "IITM MAD 1 Project Demonstration | Influencer Engagement and Sponsorship Coordination Platform
-")](https://youtu.be/ROC1Bg4fBQc?feature=shared)
+
+
+[<img src="yt.svg">](https://youtu.be/ROC1Bg4fBQc?feature=shared)
+
+
 
 <br>
 
