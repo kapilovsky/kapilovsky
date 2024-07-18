@@ -66,7 +66,7 @@
 <img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=k4p1l&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF" width="400" />
 
 **<summary> Click here for Github Stats </summary>**
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=k4p1l&show_icons=true&locale=en&layout=compact" alt="k4p1l" width="300"/><br>
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k4p1l&" alt="k4p1l" />
 
