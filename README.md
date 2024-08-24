@@ -22,7 +22,7 @@
 * 🌱 I’m currently learning **Full stack development and Machine Learning**
 * 🛕 Based out of **United Sectors of Chandigarh**
 
-* 👨‍💻 All of my projects are available at [my portfolio](https://saber-farmer-a8f.notion.site/Portfolio-1e94d0b5ce434afeaade3ffa71fe5c28?pvs=4)
+* 👨‍💻 All of my projects are available at [my portfolio](http://k4p1ll.notion.site)
 
 * 📫 Get in touch: **<k4p1ll.23@gmail.com>**
 
