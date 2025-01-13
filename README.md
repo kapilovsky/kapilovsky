@@ -30,7 +30,6 @@
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=k4p1l&label=Profile%20views&color=000000&style=for-the-badge" alt="k4p1l"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k4p1l" alt="k4p1l" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -61,16 +60,15 @@
 
 <br>
 
-<details>
+**Github Stats**
 
 <img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=k4p1l&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF" width="400" />
 
-**<summary> Click here for Github Stats </summary>**
+
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k4p1l&" alt="k4p1l" />
 
-</details>
 <br>
 
 
