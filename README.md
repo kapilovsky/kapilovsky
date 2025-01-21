@@ -70,7 +70,7 @@
 
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k4p1l&" alt="k4p1l" />
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=k4p1l&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
