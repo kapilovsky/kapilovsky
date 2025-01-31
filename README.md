@@ -70,7 +70,7 @@
 
 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=k4p1l&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-taupe-nine.vercel.app?user=k4p1l&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
