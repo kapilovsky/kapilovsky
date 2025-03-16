@@ -22,18 +22,18 @@
 * 🌱 I’m currently learning **Full stack development and Machine Learning**
 * 🛕 Based out of **United Sectors of Chandigarh**
 
-* 👨‍💻 All of my projects are available at [my portfolio](http://k4p1ll.notion.site)
+* 👨‍💻 All of my projects are available at [my portfolio](http://kapilovsky.notion.site)
 
 * 📫 Get in touch: **<k4p1ll.23@gmail.com>**
 
 * ⚡ Fun fact **2+2 is 4 -1 that's 3, Quick Mafs !**
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=k4p1l&label=Profile%20views&color=000000&style=for-the-badge" alt="k4p1l"/>
+<img src="https://komarev.com/ghpvc/?username=k4p1l&label=Profile%20views&color=000000&style=for-the-badge" alt="kapilovsky"/>
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://x.com/kangsta1474" ><img width="120" src="https://img.shields.io/badge/-Twitter?style=for-the-badge&logo=x&logoColor=fff&label=Twitter&labelColor=000&color=000" alt="Twitter Badge" /></a> <a href="https://discord.com/users/864428698412384266"><img width="120" src="https://img.shields.io/badge/-Discord?style=for-the-badge&logo=discord&logoColor=fff&label=Discord&labelColor=000&color=000" alt="Discord Badge" /></a> <a href="https://www.linkedin.com/in/kapil-yadav-4675931b0/"><img width="120" src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=fff&label=LinkedIn&labelColor=000&color=000" alt="LinkedIn Badge" /></a> <a href="mailto:kapilydym23@gmail.com"><img width="104" src="https://img.shields.io/badge/-gmail?style=for-the-badge&logo=gmail&logoColor=fff&logoSize=auto&label=Email&labelColor=000&color=000" alt="Email Badge" /></a>
+<a href="https://x.com/kapilovsky" ><img width="120" src="https://img.shields.io/badge/-Twitter?style=for-the-badge&logo=x&logoColor=fff&label=Twitter&labelColor=000&color=000" alt="Twitter Badge" /></a> <a href="https://discord.com/users/864428698412384266"><img width="120" src="https://img.shields.io/badge/-Discord?style=for-the-badge&logo=discord&logoColor=fff&label=Discord&labelColor=000&color=000" alt="Discord Badge" /></a> <a href="https://www.linkedin.com/in/kapilovsky/"><img width="120" src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=fff&label=LinkedIn&labelColor=000&color=000" alt="LinkedIn Badge" /></a> <a href="mailto:kapilydym23@gmail.com"><img width="104" src="https://img.shields.io/badge/-gmail?style=for-the-badge&logo=gmail&logoColor=fff&logoSize=auto&label=Email&labelColor=000&color=000" alt="Email Badge" /></a>
 
 ---
 
@@ -65,12 +65,12 @@
 
 **Github Stats**
 
-<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=k4p1l&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF" width="400" />
+<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=kapilovsky&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF" width="400" />
 
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats-taupe-nine.vercel.app?user=k4p1l&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-taupe-nine.vercel.app?user=kapilovsky&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
@@ -81,7 +81,7 @@
 
 <br>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/k4p1l/k4p1l?style=for-the-badge&logo=git&logoColor=fff&labelColor=000&color=32a632)![Static Badge](https://img.shields.io/badge/-Created%20By?style=for-the-badge&logo=github&logoColor=FFF&label=K4P1L&labelColor=000&color=000)
+![GitHub last commit](https://img.shields.io/github/last-commit/kapilovsky/kapilovsky?style=for-the-badge&logo=git&logoColor=fff&labelColor=000&color=32a632)![Static Badge](https://img.shields.io/badge/-Created%20By?style=for-the-badge&logo=github&logoColor=FFF&label=kapilovsky&labelColor=000&color=000)
 
 
 
