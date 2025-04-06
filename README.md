@@ -50,7 +50,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,ae,blender&theme=light)](https://skillicons.dev)
 
 ### Other Skills : <br>
-[![My Skills](https://skillicons.dev/icons?i=redis,bash,linux,pinia,mongodb,postgres,postman,sqlite,supabase,vercel,vscode,neovim,notion,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,bash,pinia,mongodb,postgres,postman,sqlite,supabase,neovim,notion,arduino&theme=light)](https://skillicons.dev)
 
 <br>
 
