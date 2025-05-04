@@ -22,7 +22,7 @@
 * 🌱 I’m currently learning **Full stack development and Machine Learning**
 * 🛕 Based out of **United Sectors of Chandigarh**
 
-* 👨‍💻 All of my projects are available at [my portfolio](http://kapilovsky.notion.site)
+* 👨‍💻 All of my projects are available at [my portfolio](https://kapilovsky.tech)
 
 * 📫 Get in touch: **<k4p1ll.23@gmail.com>**
 
